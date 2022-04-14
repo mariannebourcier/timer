@@ -1,5 +1,3 @@
-process.stdout.write('\x07');
-
 //no numbers = no beep, end
 //ignore negative numbers
 //ignore non numbers
